@@ -1,0 +1,6 @@
+{
+  "name": "babel-plugin-transform-react-class-names",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
